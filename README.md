@@ -1,5 +1,5 @@
 # sat-scores
-This repository visualizes the relationship between SAT Scores and year taken, 
+This repository visualizes the relationship between SAT Scores and year taken.
 
 ## Description
 
