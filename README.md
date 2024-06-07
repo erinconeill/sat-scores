@@ -56,10 +56,10 @@ A negative inverse relationship was found between the composite SAT score and th
 
 ## Dependencies
 
-- NumPy
-- matplotlib
-- pandas
-- os
-- scipy
-- seaborn
-- sklearn
+- [NumPy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [pandas](https://pandas.pydata.org/)
+- [os](https://docs.python.org/3/library/os.html)
+- [scipy](https://scipy.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
