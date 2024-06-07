@@ -1,5 +1,5 @@
 # sat-scores
-This Python script visualizes the relationship between SAT scores and years taken while considering the region. It was a final project for an intermediate programming class, integrating various techniques learned during the course, including KMeans clustering, GeoPandas, and correlation analysis. 
+This Jupyter Notebook script visualizes the relationship between SAT scores and years taken while considering the region. It was a final project for an intermediate programming class, integrating various techniques learned during the course, including KMeans clustering, GeoPandas, and correlation analysis. 
 
 ## Description
 
