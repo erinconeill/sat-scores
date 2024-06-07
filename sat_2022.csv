@@ -1,0 +1,53 @@
+﻿state,total_sat,reading_writing,math,percent_taking,region
+United States,1050,529,521,47,N/A
+Alabama,1146,586,560,4,Southeast
+Alaska,1110,565,545,26,West
+Arizona,1159,583,577,14,Southwest
+Arkansas,1191,610,581,2,Southeast
+California,1115,560,555,21,West
+Colorado,1021,518,503,84,West
+Connecticut,1025,520,505,89,Northeast
+Delaware,968,491,477,95,Northeast
+District of Columbia,985,502,484,100,Northeast
+Florida,983,510,473,87,Southeast
+Georgia,1060,541,520,54,Southeast
+Hawaii,1124,566,558,31,West
+Idaho,986,499,488,97,West
+Illinois,981,495,485,97,Midwest
+Indiana,1073,540,533,48,Midwest
+Iowa,1196,602,594,3,Midwest
+Kansas,1238,621,617,2,Midwest
+Kentucky,1219,618,600,2,Southeast
+Louisiana,1171,597,574,3,Southeast
+Maine,1081,549,532,43,Northeast
+Maryland,1075,546,529,54,Northeast
+Massachusetts,1129,567,561,55,Northeast
+Michigan,1000,506,495,84,Midwest
+Minnesota,1225,613,612,3,Midwest
+Mississippi,1226,623,602,1,Southeast
+Missouri,1200,606,594,3,Midwest
+Montana,1206,609,597,6,West
+Nebraska,1222,613,609,2,Midwest
+Nevada,1172,592,580,6,West
+New Hampshire,1050,530,521,81,Northeast
+New Jersey,1079,543,537,63,Northeast
+New Mexico,976,496,480,42,Southwest
+New York,1067,534,533,59,Northeast
+North Carolina,1136,573,562,27,Southeast
+North Dakota,1212,610,603,1,Midwest
+Ohio,1053,528,525,18,Midwest
+Oklahoma,951,485,467,17,Southwest
+Oregon,1143,580,563,22,West
+Pennsylvania,1091,551,540,48,Northeast
+Rhode Island,971,494,477,93,Northeast
+South Carolina,1030,526,504,51,Southeast
+South Dakota,1219,608,611,2,Midwest
+Tennessee,1200,610,589,5,Southeast
+Texas,1001,506,495,64,Southwest
+Utah,1233,618,615,2,West
+Vermont,1095,558,537,48,Northeast
+Virginia,1124,572,552,48,Southeast
+Washington,1096,554,542,32,West
+West Virginia,938,481,456,84,Southeast
+Wisconsin,1252,622,629,2,Midwest
+Wyoming,1244,627,617,2,West
